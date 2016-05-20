@@ -1,0 +1,14 @@
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\bin\Debug\ClipSpeak.exe.config
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Debug\ClipSpeak.csproj.ResolveComReference.cache
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\bin\Debug\ClipSpeak.exe
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\bin\Debug\ClipSpeak.pdb
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\bin\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Debug\ClipSpeak.exe
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Debug\ClipSpeak.pdb
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\bin\Debug\ClipSpeak.exe.config
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\obj\Debug\ClipSpeak.csproj.ResolveComReference.cache
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\obj\Debug\ClipSpeak.exe
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\obj\Debug\ClipSpeak.pdb

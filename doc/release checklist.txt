@@ -1,0 +1,16 @@
+When the release is ready, check the following things:
+- assembly version
+- dates
+- version as stated in the readme
+- readme documents new features (check issue tracker)
+- dev document documents new features
+- this file is current with respect to the file structure
+
+A release is named "ClipSpeak <version>.zip" and contains:
+- ClipSpeak.exe
+- Interop.SpeechLib.dll
+- readme.txt
+- GPL.txt
+- LAME\lame.exe
+- LAME\lame_enc.dll
+- LAME\LGPL.txt

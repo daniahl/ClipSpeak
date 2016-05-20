@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<entries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry name="" kind="folder" url="https://tfs04.codeplex.com:443/" path="$/clipspeak/doc/" id="292680" changeset="19431" shadow="45ce49734c6340749be81d142e4bdd3d" />
+  <entry name="dev.txt" kind="file" id="292681" changeset="41863" />
+  <entry name="readme.txt" kind="file" id="292682" changeset="41869" />
+  <entry name="release checklist.txt" kind="file" id="308581" changeset="41865" />
+</entries>

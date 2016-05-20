@@ -1,0 +1,27 @@
+Running from source code
+========================
+To run ClipSpeak from source code, make sure you have a "bin" directory layout like the one specified in the release checklist document.
+
+Overview of ClipSpeak
+=====================
+The main file is called ClipSpeak.cs. Here the static main method creates a form from the class itself, and then starts the application.
+Note that it doesn't start the form, because we don't really want the form visible. The (inherited) form is only used for handling events and process messages in the WndProc method.
+The functions associated with the clipboard chain are static members of the class WinAPI for easy access.
+WndProc is overridden in order to catch the clipboard messages, and a flag is used to prevent the program for speaking the contents of the clipboard when starting.
+The keyboard is hooked in order to provide the stop speech functionality for the right-control key.
+ClipSpeak supports SAPI5 speech synthesizers, and these are handled by the SpeechHandler class.
+
+
+The voice selection dialog
+==========================
+This dialog is a windows form located in the file VoiceDlg.cs. It gets a reference to the speech hanler in order to set the voice the user chooses.
+
+
+The save to MP3 feature
+=======================
+To save to MP3, ClipSpeak first opens a file stream to the specified file, and then speaks the specified text to that file. When this is complete ClipSpeak calls the LAME command line tool to convert the wave file to an MP3 file. Finally, the temporary wave file is deleted.
+
+
+The clipboard monitor ClipMon
+=============================
+In the folder ClipMon is a small WinForms application that catches and displays clipboard messages on the screen. This can be used when troubleshooting problems related to the way ClipSpeak processes clipboard messages.

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<entries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry name="" kind="folder" url="https://tfs04.codeplex.com:443/" path="$/clipspeak/LAME/" id="737722" changeset="41861" shadow="17be3945fc7d4cd3adda70e69e73ba19" />
+  <entry name="lame.exe" kind="file" id="737723" changeset="41863" />
+  <entry name="lame_enc.dll" kind="file" id="737724" changeset="41863" />
+  <entry name="LGPL.txt" kind="file" id="737725" changeset="41863" />
+</entries>

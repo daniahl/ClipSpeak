@@ -1,0 +1,14 @@
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\bin\Release\ClipSpeak.exe.config
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Release\Interop.ACTIVEVOICEPROJECTLib.dll
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Release\Interop.SpeechLib.dll
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Release\samples_cpp.cpp.csproj.ResolveComReference.cache
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Release\ClipSpeak.exe
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Release\ClipSpeak.pdb
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\bin\Release\ClipSpeak.exe
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\bin\Release\ClipSpeak.pdb
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\bin\Release\Interop.ACTIVEVOICEPROJECTLib.dll
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\bin\Release\Interop.SpeechLib.dll
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Release\ClipSpeak.VoiceDlg.resources
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Release\ClipSpeak.SaveDlg.resources
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\obj\Release\samples_cpp.cpp.csproj.GenerateResource.Cache

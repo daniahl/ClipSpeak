@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<entries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry name="" kind="folder" url="https://tfs04.codeplex.com:443/" path="$/clipspeak/" id="287033" changeset="18789" shadow="4ffa482c0413469caca595d4b34abea2" />
+  <entry name="app.config" kind="file" id="292674" changeset="19431" />
+  <entry name="ClipMon" kind="folder" id="295544" changeset="19784" shadow="997f4edd53e147d6bce9cb27ffd8219a" />
+  <entry name="ClipSpeak.cs" kind="file" id="292675" changeset="41865" />
+  <entry name="ClipSpeak.csproj" kind="file" id="292676" changeset="41861" />
+  <entry name="ClipSpeak.sln" kind="file" id="292678" changeset="19784" />
+  <entry name="ClipSpeak.suo" kind="file" id="292679" changeset="41865" />
+  <entry name="doc" kind="folder" id="292680" changeset="19431" shadow="45ce49734c6340749be81d142e4bdd3d" />
+  <entry name="globalKeyboardHook.cs" kind="file" id="305362" changeset="21379" />
+  <entry name="GPL.txt" kind="file" id="292683" changeset="19431" />
+  <entry name="icon1.ico" kind="file" id="737720" changeset="41861" />
+  <entry name="icon2.ico" kind="file" id="737721" changeset="41861" />
+  <entry name="LAME" kind="folder" id="737722" changeset="41861" shadow="17be3945fc7d4cd3adda70e69e73ba19" />
+  <entry name="SaveDlg.cs" kind="file" id="737726" changeset="41869" />
+  <entry name="SaveDlg.Designer.cs" kind="file" id="737727" changeset="41865" />
+  <entry name="SaveDlg.resx" kind="file" id="737728" changeset="41863" />
+  <entry name="SpeechHandler.cs" kind="file" id="363698" changeset="41869" />
+  <entry name="WinAPI.cs" kind="file" id="292684" changeset="34364" />
+  <entry name="VoiceDlg.cs" kind="file" id="308137" changeset="41861" />
+  <entry name="VoiceDlg.Designer.cs" kind="file" id="308138" changeset="41861" />
+  <entry name="VoiceDlg.resx" kind="file" id="308139" changeset="21751" />
+</entries>

@@ -1,0 +1,17 @@
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\ClipMon\bin\Release\ClipMon.exe
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\ClipMon\bin\Release\ClipMon.pdb
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\ClipMon\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\ClipMon\obj\Release\ClipMon.Form1.resources
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\ClipMon\obj\Release\ClipMon.Properties.Resources.resources
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\ClipMon\obj\Release\ClipMon.csproj.GenerateResource.Cache
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\ClipMon\obj\Release\ClipMon.exe
+C:\Documents and Settings\Daniel\Skrivbord\CodePlex\ClipSpeak\ClipSpeak\ClipMon\obj\Release\ClipMon.pdb
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ClipMon\bin\Release\ClipMon.exe
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ClipMon\bin\Release\ClipMon.pdb
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ClipMon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ClipMon\obj\Release\ClipMon.Form1.resources
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ClipMon\obj\Release\ClipMon.Properties.Resources.resources
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ClipMon\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ClipMon\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ClipMon\obj\Release\ClipMon.exe
+C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ClipMon\obj\Release\ClipMon.pdb

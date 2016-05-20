@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<entries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry name="" kind="folder" url="https://tfs04.codeplex.com:443/" path="$/clipspeak/ClipMon/Properties/" id="295550" changeset="19784" shadow="75e6ebb00f1d459ebdf0e83b1e801e39" />
+  <entry name="AssemblyInfo.cs" kind="file" id="295551" changeset="19784" />
+  <entry name="Resources.Designer.cs" kind="file" id="295552" changeset="19784" />
+  <entry name="Resources.resx" kind="file" id="295553" changeset="19784" />
+  <entry name="Settings.Designer.cs" kind="file" id="295554" changeset="19784" />
+  <entry name="Settings.settings" kind="file" id="295555" changeset="19784" />
+</entries>

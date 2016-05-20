@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<entries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry name="" kind="folder" url="https://tfs04.codeplex.com:443/" path="$/clipspeak/ClipMon/" id="295544" changeset="19784" shadow="997f4edd53e147d6bce9cb27ffd8219a" />
+  <entry name="ClipMon.csproj" kind="file" id="295545" changeset="19784" />
+  <entry name="Form1.cs" kind="file" id="295546" changeset="34364" />
+  <entry name="Form1.Designer.cs" kind="file" id="295547" changeset="34364" />
+  <entry name="Form1.resx" kind="file" id="295548" changeset="19784" />
+  <entry name="Program.cs" kind="file" id="295549" changeset="34364" />
+  <entry name="Properties" kind="folder" id="295550" changeset="19784" shadow="75e6ebb00f1d459ebdf0e83b1e801e39" />
+  <entry name="WinAPI.cs" kind="file" id="295556" changeset="34364" />
+</entries>

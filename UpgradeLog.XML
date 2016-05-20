@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ClipSpeak">
+</Property><Property Name="Solution File" Value="C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ClipSpeak.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ClipSpeak.suo">
+</Property><Property Name="Date" Value="den 18 februari 2010">
+</Property><Property Name="Time" Value="09:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ClipSpeak.sln" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipSpeak.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ClipSpeak.suo" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipSpeak.suo">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="ClipSpeak.csproj" Description="Project file successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipSpeak.csproj">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="ClipSpeak.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipSpeak.cs">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="globalKeyboardHook.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\globalKeyboardHook.cs">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="SaveDlg.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\SaveDlg.cs">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="SaveDlg.Designer.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\SaveDlg.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="SpeechHandler.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\SpeechHandler.cs">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="VoiceDlg.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\VoiceDlg.cs">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="VoiceDlg.Designer.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\VoiceDlg.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="WinAPI.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\WinAPI.cs">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="app.config" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="VoiceDlg.resx" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\VoiceDlg.resx">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="icon2.ico" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\icon2.ico">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="icon1.ico" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\icon1.ico">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="SaveDlg.resx" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\SaveDlg.resx">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="ClipSpeak.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ClipSpeak" Source="ClipSpeak.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ClipMon" Source="ClipMon\ClipMon.csproj" Description="Project file successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipMon\ClipMon.csproj">
+</Event><Event ErrorLevel="0" Project="ClipMon" Source="ClipMon\Form1.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipMon\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ClipMon" Source="ClipMon\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipMon\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ClipMon" Source="ClipMon\Program.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipMon\Program.cs">
+</Event><Event ErrorLevel="0" Project="ClipMon" Source="ClipMon\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipMon\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ClipMon" Source="ClipMon\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipMon\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ClipMon" Source="ClipMon\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipMon\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ClipMon" Source="ClipMon\WinAPI.cs" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipMon\WinAPI.cs">
+</Event><Event ErrorLevel="0" Project="ClipMon" Source="ClipMon\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipMon\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ClipMon" Source="ClipMon\Form1.resx" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipMon\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ClipMon" Source="ClipMon\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Daniel\Desktop\CodePlex\ClipSpeak\ClipSpeak\ConvBackup\Backup\ClipMon\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ClipMon" Source="ClipMon\ClipMon.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ClipMon" Source="ClipMon\ClipMon.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ClipSpeak.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ClipSpeak.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ClipSpeak" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="ClipSpeak" Source="app.config" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ClipMon" Source="ClipMon\ClipMon.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
